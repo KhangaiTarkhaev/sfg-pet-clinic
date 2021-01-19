@@ -3,7 +3,7 @@ package com.khangaitarkhaev.petclinic.model;
 import javax.persistence.Entity;
 
 @Entity
-public class Person {
+public class Person extends BaseEntity{
 
     private String firstName;
     private String lastName;
