@@ -11,10 +11,6 @@
 
     <artifactId>pet-clinic-web</artifactId>
 
-    <properties>
-        <maven.compiler.source>15</maven.compiler.source>
-        <maven.compiler.target>15</maven.compiler.target>
-    </properties>
     <dependencies>
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
