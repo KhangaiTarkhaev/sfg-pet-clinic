@@ -1,12 +1,12 @@
 package com.khangaitarkhaev.petclinic;
 
-import org.junit.Test;
+
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class PetClinicApplicationTests {
 
-    @Test
+    //@Test
     void contextLoads() {
     }
 
